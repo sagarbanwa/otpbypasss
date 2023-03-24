@@ -1,4 +1,4 @@
-''' This script will grnrate 4 and 6 digit of OTP brutr force pins based on config above 
+''' This script will gen 4 and 6 digit of OTP brutr force pins based on config above 
 it could be 
 
 {"otp":"0001
